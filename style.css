@@ -1,0 +1,55 @@
+ body{
+    margin-right: 35pxpx;
+    padding-right: 35px;
+    margin-left: 35px;
+    padding-left: 25px;
+    margin-top: 1px;
+}
+p{
+    display: inline-block;
+    margin: 14px;
+} 
+button{
+    background-color: blue;
+    margin: 5px;
+}
+/* button{
+    color: lightgreen;
+} */
+.class{
+    color: lightgreen;
+}
+nav{
+    box-shadow: 1px 1px 1px;
+    height: 95px;
+    width: 100%;
+}
+.nav-1{
+    display: inline-block;
+}
+h1{
+    padding: 1px;
+    margin: 1px;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+span{
+    margin: 500px;
+    margin-top: ;
+}
+button{
+    border-radius: 10px;
+}
+h3{
+    color: blue;
+    font-size: larger;
+}
+div img{
+    margin-left: 460px;
+    padding-left: 200px;
+}
+/* p{
+    margin: 40px;
+} */
